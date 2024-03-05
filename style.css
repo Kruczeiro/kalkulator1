@@ -7,28 +7,3 @@ body
 	text-align:center;
 	
 }
-
-h1
-{
-	font-size: 48px;
-	color: red !important;
-}
-
-/* Nieodwiedzony link */
-a:link
-{
-	color: green;
-}
-
-/* Odwiedzony link */
-a:visited
-{
-	color:green
-	;
-}
-
-/* Link po najechaniu kursorem */
-a:hover
-{
-	color: red;
-}
